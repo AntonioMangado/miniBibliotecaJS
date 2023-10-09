@@ -114,7 +114,7 @@ for (let i = 0; i < books.length; i++) {
 
 // FASE 2
 
-let lista = ``
+let lista = ""
 
 for (let i = 0; i < books.length; i++) {
 
